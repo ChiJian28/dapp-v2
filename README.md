@@ -6,6 +6,7 @@
 * CRUD operation
 * deploy smart contract via Hardhat
 * Cannot transfer ether
+* Haven't apply unit test
 
 
 
