@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# Second Version
+* Remix IDE + Hardhat + Ethers.js + React
+* Backend - Solidity, Hardhat
+* Database - Blockchain (data stored on blockchain, should use IPFS to reduce high gas fees)
+* Frontend - React, Ethers.js
+* CRUD operation
+* deploy smart contract via Hardhat
+* Cannot transfer ether
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+solidity - 0.8.17 
+<br/>
+ethers.js - 5.6.1
+<br/>
+hardhat - 2.19.4
